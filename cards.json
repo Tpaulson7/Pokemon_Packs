@@ -1,0 +1,591 @@
+{
+    "common": [
+    {
+        "name": "Pidgey",
+        "type": "Normal",
+        "image": "images/pidgey.png"
+    },
+    {
+        "name": "Rattata",
+        "type": "Normal",
+        "image": "images/rattata.png"
+    },
+    {
+        "name": "Caterpie",
+        "type": "Bug",
+        "image": "images/caterpie.png"
+    },
+    {
+        "name": "Machop",
+        "type": "Fighting",
+        "image": "images/machop.png"
+    },
+    {
+        "name": "Abra",
+        "type": "Psychic",
+        "image": "images/abra.png"
+    },
+    {
+        "name": "Bulbasaur",
+        "type": "Grass",
+        "image": "images/bulbasaur.png"
+    },
+    {
+        "name": "Charmander",
+        "type": "Fire",
+        "image": "images/charmander.png"
+    },
+    {
+        "name": "Diglett",
+        "type": "Fighting",
+        "image": "images/diglett.png"
+    },
+    {
+        "name": "Doduo",
+        "type": "Normal",
+        "image": "images/doduo.png"
+    },
+    {
+        "name": "Drowzee",
+        "type": "Psychic",
+        "image": "images/drowzee.png"
+    },
+    {
+        "name": "Gastly",
+        "type": "Psychic",
+        "image": "images/gastly.png"
+    },
+    {
+        "name": "Koffing",
+        "type": "Poison",
+        "image": "images/koffing.png"
+    },
+    {
+        "name": "Magnemite",
+        "type": "Electric",
+        "image": "images/magnemite.png"
+    },
+    {
+        "name": "Metapod",
+        "type": "Bug",
+        "image": "images/metapod.png"
+    },
+    {
+        "name": "Nidoran",
+        "type": "Poison",
+        "image": "images/nidoran.png"
+    },
+    {
+        "name": "Onix",
+        "type": "Rock",
+        "image": "images/onix.png"
+    },
+    {
+        "name": "Pikachu",
+        "type": "Electric",
+        "image": "images/pikachu.png"
+    },
+    {
+        "name": "Poliwag",
+        "type": "Water",
+        "image": "images/poliwag.png"
+    },
+    {
+        "name": "Ponyta",
+        "type": "Fire",
+        "image": "images/ponyta.png"
+    },
+    {
+        "name": "Sandshrew",
+        "type": "Ground",
+        "image": "images/sandshrew.png"
+    },
+    {
+        "name": "Squirtle",
+        "type": "Water",
+        "image": "images/squirtle.png"
+    },
+    {
+        "name": "Starmie",
+        "type": "Water",
+        "image": "images/starmie.png"
+    },
+    {
+        "name": "Staryu",
+        "type": "Water",
+        "image": "images/staryu.png"
+    },
+    {
+        "name": "Tangela",
+        "type": "Grass",
+        "image": "images/tangela.png"
+    },
+    {
+        "name": "Voltorb",
+        "type": "Electric",
+        "image": "images/voltorb.png"
+    },
+    {
+        "name": "Vulpix",
+        "type": "Fire",
+        "image": "images/vulpix.png"
+    },
+    {
+        "name": "Weedle",
+        "type": "Bug",
+        "image": "images/weedle.png"
+    },
+    {
+        "name": "Bill",
+        "type": "Normal",
+        "image": "images/pidgey.png"
+    },
+    {
+        "name": "Energy Removal",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Gust of Wind",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Potion",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Switch",
+        "type": "Trainer",
+        "image": ""
+    }
+    ],
+
+    "uncommon": [
+    {
+        "name": "Kadabra",
+        "type": "Psychic",
+        "image": "images/kadabra.png"
+    },
+    {
+        "name": "Ivysaur",
+        "type": "Grass",
+        "image": "images/ivysaur.png"
+    },
+    {
+        "name": "Magmar",
+        "type": "Fire",
+        "image": "images/magmar.png"
+    },
+    {
+        "name": "Dragonair",
+        "type": "Dragon",
+        "image": "images/dragonair.png"
+    },
+    {
+        "name": "Farfetch'd",
+        "type": "Normal",
+        "image": "images/farfetchd.png"
+    },
+    {
+        "name": "Growlithe",
+        "type": "Fire",
+        "image": "images/growlithe.png"
+    },
+    {
+        "name": "Haunter",
+        "type": "Psychic",
+        "image": "images/haunter.png"
+    },
+    {
+        "name": "Jynx",
+        "type": "Psychic",
+        "image": "images/jynx.png"
+    },
+    {
+        "name": "Kakuna",
+        "type": "Bug",
+        "image": "images/kakuna.png"
+    },
+    {
+        "name": "Machoke",
+        "type": "Fighting",
+        "image": "images/machoke.png"
+    },
+    {
+        "name": "Magikarp",
+        "type": "Water",
+        "image": "images/magikarp.png"
+    },
+    {
+        "name": "Nidorino",
+        "type": "Poison",
+        "image": "images/nidorino.png"
+    },
+    {
+        "name": "Poliwhirl",
+        "type": "Water",
+        "image": "images/poliwhirl.png"
+    },
+    {
+        "name": "Porygon",
+        "type": "Normal",
+        "image": "images/porygon.png"
+    },
+    {
+        "name": "Raticate",
+        "type": "Normal",
+        "image": "images/raticate.png"
+    },
+    {
+        "name": "Seel",
+        "type": "Water",
+        "image": "images/seel.png"
+    },
+    {
+        "name": "Wartortle",
+        "type": "Water",
+        "image": "images/wartortle.png"
+    },
+    {
+        "name": "Defender",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Energy Retrieval",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Full Heal",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Maintenance",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "PlusPower",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Pokemon Center",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Pokemon Flute",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Pokedex",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Professor Oak",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Revive",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Super Potion",
+        "type": "Trainer",
+        "image": ""
+    }
+    ],
+
+    "rare": [
+    {
+        "name": "Alakazam",
+        "type": "Psychic",
+        "image": "images/alakazam.png"
+    },
+    {
+        "name": "Blastoise",
+        "type": "Water",
+        "image": "images/blastoise.png"
+    },
+    {
+        "name": "Chansey",
+        "type": "Normal",
+        "image": "images/chansey.png"
+    },
+    {
+        "name": "Charizard",
+        "type": "Fire",
+        "image": "images/charizard.png"
+    },
+    {
+        "name": "Clefairy",
+        "type": "Fairy",
+        "image": "images/clefairy.png"
+    },
+    {
+        "name": "Gyarados",
+        "type": "Water",
+        "image": "images/gyarados.png"
+    },
+    {
+        "name": "Hitmonchan",
+        "type": "Fighting",
+        "image": "images/hitmonchan.png"
+    },
+    {
+        "name": "Machamp",
+        "type": "Fighting",
+        "image": "images/machamp.png"
+    },
+    {
+        "name": "Magneton",
+        "type": "Electric",
+        "image": "images/magneton.png"
+    },
+    {
+        "name": "Mewtwo",
+        "type": "Psychic",
+        "image": "images/mewtwo.png"
+    },
+    {
+        "name": "Nidoking",
+        "type": "Poison",
+        "image": "images/nidoking.png"
+    },
+    {
+        "name": "Ninetales",
+        "type": "Fire",
+        "image": "images/ninetales.png"
+    },
+    {
+        "name": "Poliwrath",
+        "type": "Water",
+        "image": "images/poliwrath.png"
+    },
+    {
+        "name": "Raichu",
+        "type": "Electric",
+        "image": "images/raichu.png"
+    },
+    {
+        "name": "Venusaur",
+        "type": "Grass",
+        "image": "images/venusaur.png"
+    },
+    {
+        "name": "Zapdos",
+        "type": "Electric",
+        "image": "images/zapdos.png"
+    },
+    {
+        "name": "Beedrill",
+        "type": "Bug",
+        "image": "images/beedrill.png"
+    },
+    {
+        "name": "Dugtrio",
+        "type": "Ground",
+        "image": "images/dugtrio.png"
+    },
+    {
+        "name": "Electabuzz",
+        "type": "Electric",
+        "image": "images/electabuzz.png"
+    },
+    {
+        "name": "Electrode",
+        "type": "Electric",
+        "image": "images/electrode.png"
+    },
+    {
+        "name": "",
+        "type": "",
+        "image": ""
+    },
+    {
+        "name": "Clefairy Doll",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Computer Search",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Devolution Spray",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Imposter Professor Oak",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Item Finder",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Lass",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Pokemon Breeder",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Pokemon Trader",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Scoop Up",
+        "type": "Trainer",
+        "image": ""
+    },
+    {
+        "name": "Super Energy Removal",
+        "type": "Trainer",
+        "image": ""
+    }
+    ],
+
+    "energy": [
+    {
+        "name": "Double Colorless Energy",
+        "type": "Energy",
+        "image": ""
+    },
+    {
+        "name": "Fighting Energy",
+        "type": "Energy",
+        "image": ""
+    },
+    {
+        "name": "Normal Energy",
+        "type": "Normal",
+        "image": "images/pidgey.png"
+    },
+    {
+        "name": "Fire Energy",
+        "type": "Energy",
+        "image": ""
+    },
+    {
+        "name": "Grass Energy",
+        "type": "Energy",
+        "image": ""
+    },
+    {
+        "name": "Lightning Energy",
+        "type": "Energy",
+        "image": ""
+    },
+    {
+        "name": "Psychic Energy",
+        "type": "Energy",
+        "image": ""
+    },
+    {
+        "name": "Water Energy",
+        "type": "Energy",
+        "image": ""
+    }
+    ],
+
+    "holo": [
+    {
+        "name": "Alakazam",
+        "type": "Psychic",
+        "image": "images/alakazam.png"
+    },
+    {
+        "name": "Blastoise",
+        "type": "Water",
+        "image": "images/blastoise.png"
+    },
+    {
+        "name": "Chansey",
+        "type": "Normal",
+        "image": "images/chansey.png"
+    },
+    {
+        "name": "Charizard",
+        "type": "Fire",
+        "image": "images/charizard.png"
+    },
+    {
+        "name": "Clefairy",
+        "type": "Fairy",
+        "image": "images/clefairy.png"
+    },
+    {
+        "name": "Gyarados",
+        "type": "Water",
+        "image": "images/gyarados.png"
+    },
+    {
+        "name": "Hitmonchan",
+        "type": "Fighting",
+        "image": "images/hitmonchan.png"
+    },
+    {
+        "name": "Machamp",
+        "type": "Fighting",
+        "image": "images/machamp.png"
+    },
+    {
+        "name": "Magneton",
+        "type": "Electric",
+        "image": "images/magneton.png"
+    },
+    {
+        "name": "Mewtwo",
+        "type": "Psychic",
+        "image": "images/mewtwo.png"
+    },
+    {
+        "name": "Nidoking",
+        "type": "Poison",
+        "image": "images/nidoking.png"
+    },
+    {
+        "name": "Ninetales",
+        "type": "Fire",
+        "image": "images/ninetales.png"
+    },
+    {
+        "name": "Poliwrath",
+        "type": "Water",
+        "image": "images/poliwrath.png"
+    },
+    {
+        "name": "Raichu",
+        "type": "Electric",
+        "image": "images/raichu.png"
+    },
+    {
+        "name": "Venusaur",
+        "type": "Grass",
+        "image": "images/venusaur.png"
+    },
+    {
+        "name": "Zapdos",
+        "type": "Electric",
+        "image": "images/zapdos.png"
+    }
+    ]
+}

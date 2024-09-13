@@ -1,0 +1,10 @@
+To Do:
+
+- Finish the database of pokemon cards with pictures included
+- Create the random packs of pokemon cards
+- Open the random packs
+- Show the pack in the correct order
+- Open another function
+- Create another database to store collection of cards you want to keep
+- Store in collection function 
+ 
