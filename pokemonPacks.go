@@ -11,7 +11,6 @@ type CardData struct {
     Common   []Card `json:"common"`
     Uncommon []Card `json:"uncommon"`
     Rare     []Card `json:"rare"`
-    Holo     []Card `json:"holo"`
     Energy   []Card `json:"energy"`
 }
 

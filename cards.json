@@ -1,591 +1,586 @@
 {
-    "common": [
+    "cards": [
     {
         "name": "Pidgey",
         "type": "Normal",
-        "image": "images/pidgey.png"
+        "image": "./Pokemon_Cards/pidgey.png",
+        "rarity": "Common"
     },
     {
         "name": "Rattata",
         "type": "Normal",
-        "image": "images/rattata.png"
+        "image": "./Pokemon_Cards/rattata.png",
+        "rarity": "Common"
     },
     {
         "name": "Caterpie",
         "type": "Bug",
-        "image": "images/caterpie.png"
+        "image": "./Pokemon_Cards/caterpie.png",
+        "rarity": "Common"
     },
     {
         "name": "Machop",
         "type": "Fighting",
-        "image": "images/machop.png"
+        "image": "./Pokemon_Cards/machop.png",
+        "rarity": "Common"
     },
     {
         "name": "Abra",
         "type": "Psychic",
-        "image": "images/abra.png"
+        "image": "./Pokemon_Cards/abra.png",
+        "rarity": "Common"
     },
     {
         "name": "Bulbasaur",
         "type": "Grass",
-        "image": "images/bulbasaur.png"
+        "image": "./Pokemon_Cards/bulbasaur.png",
+        "rarity": "Common"
     },
     {
         "name": "Charmander",
         "type": "Fire",
-        "image": "images/charmander.png"
+        "image": "./Pokemon_Cards/charmander.png",
+        "rarity": "Common"
     },
     {
         "name": "Diglett",
         "type": "Fighting",
-        "image": "images/diglett.png"
+        "image": "./Pokemon_Cards/diglett.png",
+        "rarity": "Common"
     },
     {
         "name": "Doduo",
         "type": "Normal",
-        "image": "images/doduo.png"
+        "image": "./Pokemon_Cards/doduo.png",
+        "rarity": "Common"
     },
     {
         "name": "Drowzee",
         "type": "Psychic",
-        "image": "images/drowzee.png"
+        "image": "./Pokemon_Cards/drowzee.png",
+        "rarity": "Common"
     },
     {
         "name": "Gastly",
         "type": "Psychic",
-        "image": "images/gastly.png"
+        "image": "./Pokemon_Cards/gastly.png",
+        "rarity": "Common"
     },
     {
         "name": "Koffing",
         "type": "Poison",
-        "image": "images/koffing.png"
+        "image": "./Pokemon_Cards/koffing.png",
+        "rarity": "Common"
     },
     {
         "name": "Magnemite",
         "type": "Electric",
-        "image": "images/magnemite.png"
+        "image": "./Pokemon_Cards/magnemite.png",
+        "rarity": "Common"
     },
     {
         "name": "Metapod",
         "type": "Bug",
-        "image": "images/metapod.png"
+        "image": "./Pokemon_Cards/metapod.png",
+        "rarity": "Common"
     },
     {
         "name": "Nidoran",
         "type": "Poison",
-        "image": "images/nidoran.png"
+        "image": "./Pokemon_Cards/nidoran.png",
+        "rarity": "Common"
     },
     {
         "name": "Onix",
         "type": "Rock",
-        "image": "images/onix.png"
+        "image": "./Pokemon_Cards/onix.png",
+        "rarity": "Common"
     },
     {
         "name": "Pikachu",
         "type": "Electric",
-        "image": "images/pikachu.png"
+        "image": "./Pokemon_Cards/pikachu.png",
+        "rarity": "Common"
     },
     {
         "name": "Poliwag",
         "type": "Water",
-        "image": "images/poliwag.png"
+        "image": "./Pokemon_Cards/poliwag.png",
+        "rarity": "Common"
     },
     {
         "name": "Ponyta",
         "type": "Fire",
-        "image": "images/ponyta.png"
+        "image": "./Pokemon_Cards/ponyta.png",
+        "rarity": "Common"
     },
     {
         "name": "Sandshrew",
         "type": "Ground",
-        "image": "images/sandshrew.png"
+        "image": "./Pokemon_Cards/sandshrew.png",
+        "rarity": "Common"
     },
     {
         "name": "Squirtle",
         "type": "Water",
-        "image": "images/squirtle.png"
+        "image": "./Pokemon_Cards/squirtle.png",
+        "rarity": "Common"
     },
     {
         "name": "Starmie",
         "type": "Water",
-        "image": "images/starmie.png"
+        "image": "./Pokemon_Cards/starmie.png",
+        "rarity": "Common"
     },
     {
         "name": "Staryu",
         "type": "Water",
-        "image": "images/staryu.png"
+        "image": "./Pokemon_Cards/staryu.png",
+        "rarity": "Common"
     },
     {
         "name": "Tangela",
         "type": "Grass",
-        "image": "images/tangela.png"
+        "image": "./Pokemon_Cards/tangela.png",
+        "rarity": "Common"
     },
     {
         "name": "Voltorb",
         "type": "Electric",
-        "image": "images/voltorb.png"
+        "image": "./Pokemon_Cards/voltorb.png",
+        "rarity": "Common"
     },
     {
         "name": "Vulpix",
         "type": "Fire",
-        "image": "images/vulpix.png"
+        "image": "./Pokemon_Cards/vulpix.png",
+        "rarity": "Common"
     },
     {
         "name": "Weedle",
         "type": "Bug",
-        "image": "images/weedle.png"
+        "image": "./Pokemon_Cards/weedle.png",
+        "rarity": "Common"
     },
     {
         "name": "Bill",
         "type": "Normal",
-        "image": "images/pidgey.png"
+        "image": "./Pokemon_Cards/pidgey.png",
+        "rarity": "Common"
     },
     {
         "name": "Energy Removal",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/Energy-removal.png",
+        "rarity": "Common"
     },
     {
         "name": "Gust of Wind",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/Gust-of-wind.png",
+        "rarity": "Common"
     },
     {
         "name": "Potion",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/potion.png",
+        "rarity": "Common"
     },
     {
         "name": "Switch",
         "type": "Trainer",
-        "image": ""
-    }
-    ],
-
-    "uncommon": [
+        "image": "./Pokemon_Cards/switch.png",
+        "rarity": "Common"
+    },
     {
         "name": "Kadabra",
         "type": "Psychic",
-        "image": "images/kadabra.png"
+        "image": "./Pokemon_Cards/kadabra.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Ivysaur",
         "type": "Grass",
-        "image": "images/ivysaur.png"
+        "image": "./Pokemon_Cards/ivysaur.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Magmar",
         "type": "Fire",
-        "image": "images/magmar.png"
+        "image": "./Pokemon_Cards/magmar.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Dragonair",
         "type": "Dragon",
-        "image": "images/dragonair.png"
+        "image": "./Pokemon_Cards/dragonair.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Farfetch'd",
         "type": "Normal",
-        "image": "images/farfetchd.png"
+        "image": "./Pokemon_Cards/farfetchd.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Growlithe",
         "type": "Fire",
-        "image": "images/growlithe.png"
+        "image": "./Pokemon_Cards/growlithe.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Haunter",
         "type": "Psychic",
-        "image": "images/haunter.png"
+        "image": "./Pokemon_Cards/haunter.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Jynx",
         "type": "Psychic",
-        "image": "images/jynx.png"
+        "image": "./Pokemon_Cards/jynx.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Kakuna",
         "type": "Bug",
-        "image": "images/kakuna.png"
+        "image": "./Pokemon_Cards/kakuna.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Machoke",
         "type": "Fighting",
-        "image": "images/machoke.png"
+        "image": "./Pokemon_Cards/machoke.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Magikarp",
         "type": "Water",
-        "image": "images/magikarp.png"
+        "image": "./Pokemon_Cards/magikarp.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Nidorino",
         "type": "Poison",
-        "image": "images/nidorino.png"
+        "image": "./Pokemon_Cards/nidorino.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Poliwhirl",
         "type": "Water",
-        "image": "images/poliwhirl.png"
+        "image": "./Pokemon_Cards/poliwhirl.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Porygon",
         "type": "Normal",
-        "image": "images/porygon.png"
+        "image": "./Pokemon_Cards/porygon.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Raticate",
         "type": "Normal",
-        "image": "images/raticate.png"
+        "image": "./Pokemon_Cards/raticate.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Seel",
         "type": "Water",
-        "image": "images/seel.png"
+        "image": "./Pokemon_Cards/seel.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Wartortle",
         "type": "Water",
-        "image": "images/wartortle.png"
+        "image": "./Pokemon_Cards/wartortle.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Defender",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/Defender.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Energy Retrieval",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/Energy-retrieval.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Full Heal",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/full-heal.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Maintenance",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/Maintenance.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "PlusPower",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/Pluspower.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Pokemon Center",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/pokemon-center.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Pokemon Flute",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/pokemon-flute.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Pokedex",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/pokedex.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Professor Oak",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/professor-oak.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Revive",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/revive.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Super Potion",
         "type": "Trainer",
-        "image": ""
-    }
-    ],
-
-    "rare": [
-    {
-        "name": "Alakazam",
-        "type": "Psychic",
-        "image": "images/alakazam.png"
-    },
-    {
-        "name": "Blastoise",
-        "type": "Water",
-        "image": "images/blastoise.png"
-    },
-    {
-        "name": "Chansey",
-        "type": "Normal",
-        "image": "images/chansey.png"
-    },
-    {
-        "name": "Charizard",
-        "type": "Fire",
-        "image": "images/charizard.png"
-    },
-    {
-        "name": "Clefairy",
-        "type": "Fairy",
-        "image": "images/clefairy.png"
-    },
-    {
-        "name": "Gyarados",
-        "type": "Water",
-        "image": "images/gyarados.png"
-    },
-    {
-        "name": "Hitmonchan",
-        "type": "Fighting",
-        "image": "images/hitmonchan.png"
-    },
-    {
-        "name": "Machamp",
-        "type": "Fighting",
-        "image": "images/machamp.png"
-    },
-    {
-        "name": "Magneton",
-        "type": "Electric",
-        "image": "images/magneton.png"
-    },
-    {
-        "name": "Mewtwo",
-        "type": "Psychic",
-        "image": "images/mewtwo.png"
-    },
-    {
-        "name": "Nidoking",
-        "type": "Poison",
-        "image": "images/nidoking.png"
-    },
-    {
-        "name": "Ninetales",
-        "type": "Fire",
-        "image": "images/ninetales.png"
-    },
-    {
-        "name": "Poliwrath",
-        "type": "Water",
-        "image": "images/poliwrath.png"
-    },
-    {
-        "name": "Raichu",
-        "type": "Electric",
-        "image": "images/raichu.png"
-    },
-    {
-        "name": "Venusaur",
-        "type": "Grass",
-        "image": "images/venusaur.png"
-    },
-    {
-        "name": "Zapdos",
-        "type": "Electric",
-        "image": "images/zapdos.png"
+        "image": "./Pokemon_Cards/trainer.png",
+        "rarity": "Uncommon"
     },
     {
         "name": "Beedrill",
         "type": "Bug",
-        "image": "images/beedrill.png"
+        "image": "./Pokemon_Cards/beedrill.png",
+        "rarity": "Rare"
     },
     {
         "name": "Dugtrio",
         "type": "Ground",
-        "image": "images/dugtrio.png"
+        "image": "./Pokemon_Cards/dugtrio.png",
+        "rarity": "Rare"
     },
     {
         "name": "Electabuzz",
         "type": "Electric",
-        "image": "images/electabuzz.png"
+        "image": "./Pokemon_Cards/electabuzz.png",
+        "rarity": "Rare"
     },
     {
         "name": "Electrode",
         "type": "Electric",
-        "image": "images/electrode.png"
-    },
-    {
-        "name": "",
-        "type": "",
-        "image": ""
+        "image": "./Pokemon_Cards/electrode.png",
+        "rarity": "Rare"
     },
     {
         "name": "Clefairy Doll",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/clefairy-doll.png",
+        "rarity": "Rare"
     },
     {
         "name": "Computer Search",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/computer-search.png",
+        "rarity": "Rare"
     },
     {
         "name": "Devolution Spray",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/devolution-spray.png",
+        "rarity": "Rare"
     },
     {
         "name": "Imposter Professor Oak",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/imposter-professor-oak.png",
+        "rarity": "Rare"
     },
     {
         "name": "Item Finder",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/item-finder.png",
+        "rarity": "Rare"
     },
     {
         "name": "Lass",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/lass.png",
+        "rarity": "Rare"
     },
     {
         "name": "Pokemon Breeder",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/pokemon-breeder.png",
+        "rarity": "Rare"
     },
     {
         "name": "Pokemon Trader",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/pokemon-trader.png",
+        "rarity": "Rare"
     },
     {
         "name": "Scoop Up",
         "type": "Trainer",
-        "image": ""
+        "image": "./Pokemon_Cards/scoop-up.png",
+        "rarity": "Rare"
     },
     {
         "name": "Super Energy Removal",
         "type": "Trainer",
-        "image": ""
-    }
-    ],
-
-    "energy": [
+        "image": "./Pokemon_Cards/super-energy-removal.png",
+        "rarity": "Rare"
+    },
     {
         "name": "Double Colorless Energy",
         "type": "Energy",
-        "image": ""
+        "image": "./Pokemon_Cards/double-colorless-energy.png",
+        "rarity": "Energy"
     },
     {
         "name": "Fighting Energy",
         "type": "Energy",
-        "image": ""
-    },
-    {
-        "name": "Normal Energy",
-        "type": "Normal",
-        "image": "images/pidgey.png"
+        "image": "./Pokemon_Cards/fighting-energy.png",
+        "rarity": "Energy"
     },
     {
         "name": "Fire Energy",
         "type": "Energy",
-        "image": ""
+        "image": "./Pokemon_Cards/fire-energy.png",
+        "rarity": "Energy"
     },
     {
         "name": "Grass Energy",
         "type": "Energy",
-        "image": ""
+        "image": "./Pokemon_Cards/grass-entry.png",
+        "rarity": "Energy"
     },
     {
         "name": "Lightning Energy",
         "type": "Energy",
-        "image": ""
+        "image": "./Pokemon_Cards/lightning-energy.png",
+        "rarity": "Energy"
     },
     {
         "name": "Psychic Energy",
         "type": "Energy",
-        "image": ""
+        "image": "./Pokemon_Cards/psychic-energy.png",
+        "rarity": "Energy"
     },
     {
         "name": "Water Energy",
         "type": "Energy",
-        "image": ""
-    }
-    ],
-
-    "holo": [
+        "image": "./Pokemon_Cards/water-energy.png",
+        "rarity": "Energy"
+    },
     {
         "name": "Alakazam",
         "type": "Psychic",
-        "image": "images/alakazam.png"
+        "image": "./Pokemon_Cards/alakazam.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Blastoise",
         "type": "Water",
-        "image": "images/blastoise.png"
+        "image": "./Pokemon_Cards/blastoise.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Chansey",
         "type": "Normal",
-        "image": "images/chansey.png"
+        "image": "./Pokemon_Cards/chansey.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Charizard",
         "type": "Fire",
-        "image": "images/charizard.png"
+        "image": "./Pokemon_Cards/charizard.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Clefairy",
         "type": "Fairy",
-        "image": "images/clefairy.png"
+        "image": "./Pokemon_Cards/clefairy.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Gyarados",
         "type": "Water",
-        "image": "images/gyarados.png"
+        "image": "./Pokemon_Cards/gyarados.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Hitmonchan",
         "type": "Fighting",
-        "image": "images/hitmonchan.png"
+        "image": "./Pokemon_Cards/hitmonchan.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Machamp",
         "type": "Fighting",
-        "image": "images/machamp.png"
+        "image": "./Pokemon_Cards/machamp.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Magneton",
         "type": "Electric",
-        "image": "images/magneton.png"
+        "image": "./Pokemon_Cards/magneton.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Mewtwo",
         "type": "Psychic",
-        "image": "images/mewtwo.png"
+        "image": "./Pokemon_Cards/mewtwo.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Nidoking",
         "type": "Poison",
-        "image": "images/nidoking.png"
+        "image": "./Pokemon_Cards/nidoking.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Ninetales",
         "type": "Fire",
-        "image": "images/ninetales.png"
+        "image": "./Pokemon_Cards/ninetales.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Poliwrath",
         "type": "Water",
-        "image": "images/poliwrath.png"
+        "image": "./Pokemon_Cards/poliwrath.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Raichu",
         "type": "Electric",
-        "image": "images/raichu.png"
+        "image": "./Pokemon_Cards/raichu.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Venusaur",
         "type": "Grass",
-        "image": "images/venusaur.png"
+        "image": "./Pokemon_Cards/venusaur.png",
+        "rarity": "Holo Rare"
     },
     {
         "name": "Zapdos",
         "type": "Electric",
-        "image": "images/zapdos.png"
+        "image": "./Pokemon_Cards/zapdos.png",
+        "rarity": "Holo Rare"
     }
     ]
 }
