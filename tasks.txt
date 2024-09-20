@@ -1,10 +1,46 @@
 To Do:
 
-- Finish the database of pokemon cards with pictures included
-- Create the random packs of pokemon cards
-- Open the random packs
-- Show the pack in the correct order
-- Open another function
-- Create another database to store collection of cards you want to keep
-- Store in collection function 
- 
+Task 1: Set up the project environment.
+    Frontend: Use a JavaScript framework (React, Vue, or just vanilla JS/HTML) and structure the project directories (e.g., /src, /assets, etc.).
+    Backend: Set up the Go server with necessary routes for user authentication, pack opening, and collection storage.
+    Version control: Initialize a Git repository and connect it to GitHub or another platform.
+2. Firebase Setup
+    Task 2: Set up Firebase.
+    Create a Firebase project and configure Firebase Authentication (for user login and registration).
+    Set up Firebase Storage and upload the Pokémon card images.
+3. Authentication System
+    Task 3: Create user authentication (Firebase).
+    Implement user sign-up, login, and logout using Firebase Authentication.
+    Frontend: Create simple login and registration forms.
+    Backend: Secure certain routes so that they can only be accessed by logged-in users.
+4. Frontend Pack Simulation UI
+    Task 4: Create the UI for simulating Pokémon pack openings.
+    Create a button and image of the pack.
+    Implement basic animation or interaction when the user "opens" a pack.
+    Display 10 cards with a randomized selection from Firebase Storage.
+5. Backend Pack Opening Logic
+    Task 5: Build the pack-opening logic in Go.
+    Create a route to simulate opening a Pokémon pack.
+    Implement the logic to randomly select 10 cards, categorized correctly (e.g., 4 common, 3 uncommon, 1 rare, etc.).
+    Return card details (e.g., image URLs) to the frontend.
+6. User Collection Storage
+    Task 6: Implement card storage in the database (e.g., Firestore or another DB option).
+    Backend: Build an API route to store the cards a user collects.
+    Frontend: Create a function to call this API when the user opens a pack and save the cards to their collection.
+7. Collection Display UI
+    Task 7: Display the user's card collection.
+    Create a UI page where users can view their collection of cards.
+    Fetch the user's cards from the backend and display them using the card images from Firebase.
+8. Testing and Optimization
+    Task 8: Test the entire flow.
+    Ensure users can register, log in, open packs, and store cards.
+    Test the pack-opening logic to ensure correct card distribution.
+    Fix any bugs or UI issues that arise.
+9. Deployment
+    Task 9: Deploy the project.
+    Frontend: Deploy the static site (e.g., Firebase Hosting, Netlify, etc.).
+    Backend: Deploy the Go server (e.g., Google Cloud, AWS, or Heroku).
+    Ensure the frontend and backend communicate properly in the deployed environment.
+Additional Features (for future improvement):
+    Task 10: Add card sorting, filtering, and statistics in the collection.
+    Task 11: Add the ability for users to "trade" or interact with each other.
