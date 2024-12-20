@@ -1,0 +1,616 @@
+{
+    "cards": [
+    {
+        "name": "Pidgey",
+        "type": "Normal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Pidgey.jpg?alt=media&token=de5e7edd-e7e5-4c5c-b19c-3da67fa8c385",
+        "rarity": "Common"
+    },
+    {
+        "name": "Dewgong",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Dewgong.jpg?alt=media&token=353a3ef3-fe01-4ac1-89b1-44e756e0897e",
+        "rarity": "Common"
+    },
+    {
+        "name": "Rattata",
+        "type": "Normal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Rattata.jpg?alt=media&token=c08323dd-3dc4-4caf-855d-f124ca289663",
+        "rarity": "Common"
+    },
+    {
+        "name": "Caterpie",
+        "type": "Bug",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Caterpie.jpg?alt=media&token=33b8d094-f0ec-4674-ab83-13d3d1e1ebe6",
+        "rarity": "Common"
+    },
+    {
+        "name": "Machop",
+        "type": "Fighting",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Machop.jpg?alt=media&token=e4a36537-0a72-4438-aa68-d3a5d7ee58cd",
+        "rarity": "Common"
+    },
+    {
+        "name": "Abra",
+        "type": "Psychic",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Abra.jpg?alt=media&token=2c7ec600-8db6-4bf0-8b0f-17bc52e59550",
+        "rarity": "Common"
+    },
+    {
+        "name": "Bulbasaur",
+        "type": "Grass",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Bulbasaur.jpg?alt=media&token=df89ae66-66c2-4740-9f26-25fbd47b5bc2",
+        "rarity": "Common"
+    },
+    {
+        "name": "Charmander",
+        "type": "Fire",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Charmander.jpg?alt=media&token=a824e32d-17c2-445c-ab9d-5ce064d1d503",
+        "rarity": "Common"
+    },
+    {
+        "name": "Diglett",
+        "type": "Fighting",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Diglett.jpg?alt=media&token=e401e975-b5ef-4572-9b85-f33f7685dcac",
+        "rarity": "Common"
+    },
+    {
+        "name": "Doduo",
+        "type": "Normal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Doduo.jpg?alt=media&token=4c6ba723-3b7f-4abd-a093-3961372e9f02",
+        "rarity": "Common"
+    },
+    {
+        "name": "Drowzee",
+        "type": "Psychic",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Drowzee.jpg?alt=media&token=a0f7adff-ac85-40c6-809b-a5b783dd6465",
+        "rarity": "Common"
+    },
+    {
+        "name": "Gastly",
+        "type": "Psychic",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Gastly.jpg?alt=media&token=cc033cf9-65e7-43b9-b7d3-7ecd7683a4af",
+        "rarity": "Common"
+    },
+    {
+        "name": "Koffing",
+        "type": "Poison",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Koffing.jpg?alt=media&token=f1323337-22cf-451c-a95a-181404f6665a",
+        "rarity": "Common"
+    },
+    {
+        "name": "Magnemite",
+        "type": "Electric",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Magnemite.jpg?alt=media&token=768fe9b9-42b7-49e5-a4da-9dcb0b929a8a",
+        "rarity": "Common"
+    },
+    {
+        "name": "Metapod",
+        "type": "Bug",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Metapod.jpg?alt=media&token=26d5eded-3410-45bc-876f-670c663975ea",
+        "rarity": "Common"
+    },
+    {
+        "name": "Nidoran",
+        "type": "Poison",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Nidoran.jpg?alt=media&token=d2d6ef9a-fc18-498b-8112-cbaf5b60b99a",
+        "rarity": "Common"
+    },
+    {
+        "name": "Onix",
+        "type": "Rock",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Onix.jpg?alt=media&token=76b3dbd8-7ca7-485e-ac5d-b871f4f4c1c9",
+        "rarity": "Common"
+    },
+    {
+        "name": "Pikachu",
+        "type": "Electric",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Pikachu.jpg?alt=media&token=ce6b29ab-dbbf-48da-ada4-5ad0cb90ccd5",
+        "rarity": "Common"
+    },
+    {
+        "name": "Poliwag",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Poliwag.jpg?alt=media&token=877adca5-4323-41e2-9c47-a56ad33a464f",
+        "rarity": "Common"
+    },
+    {
+        "name": "Ponyta",
+        "type": "Fire",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Ponyta.jpg?alt=media&token=30206c08-9021-465b-8a75-d20822f97c05",
+        "rarity": "Common"
+    },
+    {
+        "name": "Sandshrew",
+        "type": "Ground",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Sandshrew.jpg?alt=media&token=227baf60-274d-46cf-9809-1d313f0626cf",
+        "rarity": "Common"
+    },
+    {
+        "name": "Squirtle",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Squirtle.jpg?alt=media&token=c43a2f20-5e8a-44f9-9e2a-95daf80ae694",
+        "rarity": "Common"
+    },
+    {
+        "name": "Starmie",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Starmie.jpg?alt=media&token=2daff3c1-ab58-4887-b387-e27415d0d0db",
+        "rarity": "Common"
+    },
+    {
+        "name": "Staryu",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Staryu.jpg?alt=media&token=dfc63a06-5298-4cf2-964e-9a4184c44363",
+        "rarity": "Common"
+    },
+    {
+        "name": "Tangela",
+        "type": "Grass",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Tangela.jpg?alt=media&token=7e543437-5612-4a26-9764-3067863ebe67",
+        "rarity": "Common"
+    },
+    {
+        "name": "Voltorb",
+        "type": "Electric",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Voltorb.jpg?alt=media&token=029e674f-3f72-46c0-9cd6-465374a11c95",
+        "rarity": "Common"
+    },
+    {
+        "name": "Vulpix",
+        "type": "Fire",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Vulpix.jpg?alt=media&token=a3f1e410-25a4-4c8f-9186-cf9482dd2e81",
+        "rarity": "Common"
+    },
+    {
+        "name": "Weedle",
+        "type": "Bug",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Weedle.jpg?alt=media&token=3895ad6c-f83f-4a16-9917-7dad870ba92e",
+        "rarity": "Common"
+    },
+    {
+        "name": "Bill",
+        "type": "Normal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Bill.jpg?alt=media&token=e5d1b928-27d4-45fc-ad3a-922eb20f3a1c",
+        "rarity": "Common"
+    },
+    {
+        "name": "Energy Removal",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Energy-Removal.jpg?alt=media&token=34da2cf7-d436-4cd9-988f-6129963b5a66",
+        "rarity": "Common"
+    },
+    {
+        "name": "Gust of Wind",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Gust-of-Wind.jpg?alt=media&token=d5d99165-c38f-40ce-8e18-70b74f0e154b",
+        "rarity": "Common"
+    },
+    {
+        "name": "Potion",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Potion.jpg?alt=media&token=4a5edb29-534c-4d82-9fe1-ec47847ac608",
+        "rarity": "Common"
+    },
+    {
+        "name": "Switch",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Switch.jpg?alt=media&token=994c9670-1b0a-42b3-8dd8-86d4390fcee1",
+        "rarity": "Common"
+    },
+    {
+        "name": "Charmeleon",
+        "type": "fire",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Charmeleon.jpg?alt=media&token=21a6f586-0747-488f-bc15-a58a3484beac",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Arcanine",
+        "type": "Fire",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Arcanine.jpg?alt=media&token=576df610-fcf0-42f7-932d-9088211bebb1",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Kadabra",
+        "type": "Psychic",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Kadabra.jpg?alt=media&token=8a4907ad-0051-4e96-a88b-12184942cf85",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Ivysaur",
+        "type": "Grass",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Ivysaur.jpg?alt=media&token=b4590567-d74b-4fc7-93fa-8f9b9234e370",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Magmar",
+        "type": "Fire",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Magmar.jpg?alt=media&token=abb97f66-ba48-4619-846a-f99f73d920a1",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Dratini",
+        "type": "Dragon",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Dratini.jpg?alt=media&token=cd12d9f6-719e-447a-808b-09c82f2b8aa5",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Dragonair",
+        "type": "Dragon",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Dragonair.jpg?alt=media&token=e8d9606e-fda3-466f-a617-d7795d248b53",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Farfetch'd",
+        "type": "Normal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Energy-Retrieval.jpg?alt=media&token=f8f9b5b9-7f00-4113-acba-c7dc73d366dd",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Growlithe",
+        "type": "Fire",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Growlithe.jpg?alt=media&token=48d55aca-661f-4316-8870-137b257baa27",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Haunter",
+        "type": "Psychic",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Haunter.jpg?alt=media&token=03378213-398a-48dd-aad9-ac0e38e3bb98",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Jynx",
+        "type": "Psychic",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Jynx.jpg?alt=media&token=fa0bee03-df3f-4093-bc17-05f28e1b8664",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Kakuna",
+        "type": "Bug",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Kakuna.jpg?alt=media&token=7e46b441-933e-4e58-946e-7bedaf7eea08",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Machoke",
+        "type": "Fighting",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Machoke.jpg?alt=media&token=bf2a7327-49e4-4d27-9827-0050b6d990b6",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Magikarp",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Magikarp.jpg?alt=media&token=df0e7640-85a7-4ea8-904d-ea1403ef5bd5",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Nidorino",
+        "type": "Poison",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Nidorino.jpg?alt=media&token=3d7bce26-b2ff-41f2-8ca9-729a07e283d5",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Poliwhirl",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Poliwhirl.jpg?alt=media&token=fe137c40-f39f-4a00-aa29-68fd59de0da4",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Porygon",
+        "type": "Normal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Porygon.jpg?alt=media&token=9ab705d8-c906-4e98-9df3-ccde5ae76118",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Raticate",
+        "type": "Normal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Raticate.jpg?alt=media&token=bdf14b35-1cfd-47a0-8f24-23f7fa6111c7",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Seel",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Seel.jpg?alt=media&token=890fef16-235c-4677-bc82-885b5e6e2dcb",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Wartortle",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Wartortle.jpg?alt=media&token=571760f1-46f3-46ed-9572-eefe2aad4cb2",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Defender",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Defender.jpg?alt=media&token=13526cc8-ec73-452e-8fa9-0b144a2ebb70",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Energy Retrieval",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Energy-Retrieval.jpg?alt=media&token=f8f9b5b9-7f00-4113-acba-c7dc73d366dd",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Full Heal",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Full-Heal.jpg?alt=media&token=5c887f74-3bed-45c2-9ae3-391a2134d6a0",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Maintenance",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Maintenance.jpg?alt=media&token=930b8c40-69fa-464b-af5f-d36230481baf",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "PlusPower",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/PlusPower.jpg?alt=media&token=4a3ee13b-6b57-49d3-a661-ce6d704ba2fa",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Pokemon Center",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Pokemon-Center.jpg?alt=media&token=ebd0b6d0-3548-4362-8792-4fb3921c0177",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Pokemon Flute",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Pokemon-Flute.jpg?alt=media&token=7df47b9c-9d73-46c7-90b6-694854600dd9",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Pokedex",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Pokedex.jpg?alt=media&token=85593654-6148-48fb-920b-ab945abbc286",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Professor Oak",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Professor-Oak.jpg?alt=media&token=aa516349-d0ac-4d08-829a-7fe37bc5ba63",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Revive",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Revive.jpg?alt=media&token=168a12b9-a681-4521-8465-c3e2315b2b69",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Super Potion",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Super-Potion.jpg?alt=media&token=6468596f-1bac-468f-a9f8-be04800f2668",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Beedrill",
+        "type": "Bug",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Beedrill.jpg?alt=media&token=727c8ddb-7371-4006-ba80-1e96ccdda94d",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Dugtrio",
+        "type": "Ground",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Dugtrio.jpg?alt=media&token=f3b3f621-66fa-4154-818b-a9964293712a",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Electabuzz",
+        "type": "Electric",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Electabuzz.jpg?alt=media&token=0b05f034-f68f-4a23-ae80-8e3caa514f07",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Electrode",
+        "type": "Electric",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Electrode.jpg?alt=media&token=90a71b6c-f89d-40bd-86a2-d3397621ab9d",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Clefairy Doll",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Clefairy-Doll.jpg?alt=media&token=a89edfd5-2cbd-48ba-a0d6-2a4868947d24",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Computer Search",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Computer-Search.jpg?alt=media&token=73cba30e-23cf-4696-b00c-03384ff02217",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Devolution Spray",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Devolution-Spray.jpg?alt=media&token=06539cb7-22c8-4cfb-b8ba-e0db538e718a",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Imposter Professor Oak",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Imposter-Professor-Oak.jpg?alt=media&token=e3a062db-7c6b-4be8-8ebd-0cdd31a4b456",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Item Finder",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Item-Finder.jpg?alt=media&token=dc764a90-4c09-455e-bc97-a6ed345a7af2",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Lass",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Lass.jpg?alt=media&token=0327a60f-8e50-45b5-b4f8-2e1d7b7f8514",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Pidgeotto",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Pidgeotto.jpg?alt=media&token=dc7fc6b2-1dd6-49fa-a9ac-f4c7946801ea",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Pokemon Breeder",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Pokemon-Breeder.jpg?alt=media&token=99bce8e6-bd62-42eb-b2ce-859b47f4bb41",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Pokemon Trader",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Pokemon-Trader.jpg?alt=media&token=3d0e880e-c328-494c-81f8-3a76532baa4e",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Scoop Up",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Scoop-Up.jpg?alt=media&token=687991ee-a8c6-4ae6-9af0-6cf3e59509b3",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Super Energy Removal",
+        "type": "Trainer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Super-Energy-Removal.jpg?alt=media&token=ad7c7ed4-7e33-42fc-91a5-173f2eea58cc",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Double Colorless Energy",
+        "type": "Energy",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Double-Colorless-Energy.jpg?alt=media&token=dc671de2-5edc-479b-b234-1542afe3c05f",
+        "rarity": "Energy"
+    },
+    {
+        "name": "Fighting Energy",
+        "type": "Energy",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Fighting-Energy.jpg?alt=media&token=7231ee75-636a-4ff8-820d-b3d745547610",
+        "rarity": "Energy"
+    },
+    {
+        "name": "Fire Energy",
+        "type": "Energy",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Fire-Energy.jpg?alt=media&token=ad17cd25-ecfd-465d-b44e-733d72cffd8f",
+        "rarity": "Energy"
+    },
+    {
+        "name": "Grass Energy",
+        "type": "Energy",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Grass-Energy.jpg?alt=media&token=31d73a5b-379b-4b77-8840-9b6423628105",
+        "rarity": "Energy"
+    },
+    {
+        "name": "Lightning Energy",
+        "type": "Energy",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Lightning-Energy.jpg?alt=media&token=b1ae024e-4520-455d-8d60-ad958d9f2f89",
+        "rarity": "Energy"
+    },
+    {
+        "name": "Psychic Energy",
+        "type": "Energy",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Psychic-Energy.jpg?alt=media&token=9ca39369-a140-4e01-93dc-78fe498b860f",
+        "rarity": "Energy"
+    },
+    {
+        "name": "Water Energy",
+        "type": "Energy",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Water-Energy.jpg?alt=media&token=a9e545bb-869e-4a2a-9a2b-b6208504d404",
+        "rarity": "Energy"
+    },
+    {
+        "name": "Alakazam",
+        "type": "Psychic",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Alakazam.jpg?alt=media&token=da6ba32b-49d3-4bfc-abeb-5ce9d47245fd",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Blastoise",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Blastoise.jpg?alt=media&token=7973de55-c5f0-48de-ba82-bc7bb43b71d3",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Chansey",
+        "type": "Normal",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Chansey.jpg?alt=media&token=f3857644-1fc3-4128-a5ee-c6a0586171d7",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Charizard",
+        "type": "Fire",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Charizard.jpg?alt=media&token=bc89b364-f252-4d2b-9a5c-07f40b9fa47e",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Clefairy",
+        "type": "Fairy",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Clefairy.jpg?alt=media&token=7f1ac9b6-3c81-43c3-ada4-4ec4dba09f07",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Gyarados",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Gyarados..jpg?alt=media&token=797b8bfa-2404-4d6e-aaeb-b0cc9574a26e",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Hitmonchan",
+        "type": "Fighting",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Hitmonchan.jpg?alt=media&token=93db01ac-8681-4d3c-85c1-30aef134d2c2",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Machamp",
+        "type": "Fighting",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Machamp.jpg?alt=media&token=524b3ac3-d9ae-4cd7-b598-9c048f444897",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Magneton",
+        "type": "Electric",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Magneton.jpg?alt=media&token=0a974892-b485-45e1-9f64-c681724ad5a6",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Mewtwo",
+        "type": "Psychic",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Mewtwo.jpg?alt=media&token=352414a7-74d3-4e0c-8d80-15efb88baf3c",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Nidoking",
+        "type": "Poison",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Nidoking.jpg?alt=media&token=528b6c70-22ac-4f20-a01d-160cbef54e36",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Ninetales",
+        "type": "Fire",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Ninetales.jpg?alt=media&token=a24fda34-da9c-4dbe-9ec8-853013bdb6e7",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Poliwrath",
+        "type": "Water",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Poliwrath.jpg?alt=media&token=d5045712-ed70-4c01-9d89-e5f50091ad6d",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Raichu",
+        "type": "Electric",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Raichu.jpg?alt=media&token=f0bc4f3b-3116-4f32-a78b-83cd779e6779",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Venusaur",
+        "type": "Grass",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Venusaur.jpg?alt=media&token=e5495540-b743-42f9-bcf6-ffc3c6792e79",
+        "rarity": "HoloRare"
+    },
+    {
+        "name": "Zapdos",
+        "type": "Electric",
+        "image": "https://firebasestorage.googleapis.com/v0/b/pokemoncards-14756.appspot.com/o/Zapdos.jpg?alt=media&token=1b5c3833-7139-484e-ab8f-b295c04121a3",
+        "rarity": "HoloRare"
+    }
+    ]
+}

@@ -3,14 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokemon Cards</title>
-    <link rel="stylesheet" href="styles.css" />
+    <title>Pokémon Pack Simulator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
 <body>
-    <h1>Pokémon Cards</h1>
-    <div id="card-container" class="card-container"></div>
+    <header>
+        <nav>
+            <a id="home-btn" href="index.html">Home</a>
+            <img id="header-img" src="https://pngimg.com/d/pokemon_logo_PNG3.png" alt="Pokemon logo">
+            <a id="collection-btn" href="collection.html">Collection</a>
+            <a id="login-btn" href="login.html">Login</a>
+        </nav>
+    </header>
 
+    <main>
+        <section id="open-pack-section">
+            <h1>Open a Pokémon Pack</h1>
+            <div id="pack-container">
+                <img id="pack-image" src="https://i.seadn.io/gae/qw_fizCKFFTBRQtCsWFcTbdE1-lKZ81z-tLfQ1BDCtmx0MYZ_by6JZFeQ3dt2wSrDupJ7iBgcJ7tW7VMuwYmzDgfkjeqpm6NeCGAZg?auto=format&dpr=1&w=1000" alt="Pokémon Pack">
+            </div>
+            <button id="open-pack-btn">Open!</button>
+        </section>
 
+        <section id="save-cards-section">
+            <button id="save-cards-btn">Save Cards to Collection</button>
+        </section>
+    </main>
 
-    <script src="script.js"></script>
+    <footer>
+        <p>
+          This project is for educational purposes only. Pokémon and all associated images, logos, and trademarks are the property of their respective owners, including Nintendo, Game Freak, and The Pokémon Company. No copyright infringement is intended.
+        </p>
+      </footer>
+
+    <script type="module" src="script.js"></script>
+    <script type="module" src="components/auth.js"></script>
+    <script type="module" src="components/storage.js"></script>
+    <script type="module" src="components/packs.js"></script>
 </body>
 </html>

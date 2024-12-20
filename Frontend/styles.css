@@ -1,16 +1,144 @@
-.card-container {
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #3c5aa6;
+    color: black;
+    text-align: center;
     display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
+    flex-direction: column;
+    overflow-x: hidden;
 }
-.card {
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    width: 150px;
+
+header {
+    background-color: #FFCC00; 
+    padding: 20px 0;
+    color: black; 
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: grey;
+}
+
+input {
     padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+footer {
+    background-color: #333; 
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 14px;
+    position: static;
+    margin-top: auto;
+    width: 100%;
+}
+
+#home-btn {
+    align-self: flex-start;
+    position: absolute;
+    left: 20px;
+    top: 5px;
+    margin-top: 18px;
+}
+
+#collection-btn, #login-btn {
+    align-self: flex-end;
+    margin-top: 18px;
+}
+
+#collection-btn {
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    margin-right: 10px;
+}
+
+#login-btn {
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    margin-right: 125px;
+}
+
+#open-pack-section {
+    margin-top: 50px;
+}
+
+#pack-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 20px auto;
+}
+
+#pack-container div {
     text-align: center;
 }
-.card img {
-    max-width: 100%;
-    border-radius: 8px;
+
+#pack-image {
+    width: 300px;
+    height: auto;
 }
+
+#login-form {
+    max-width: 400px;
+    margin: 50px auto; 
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: left; 
+}
+
+#header-img {
+    display: block;
+    height: 40px;
+    width: auto;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
