@@ -51,6 +51,10 @@ button:hover {
     background-color: grey;
 }
 
+a:hover {
+    background-color: grey;
+}
+
 input {
     padding: 10px;
     font-size: 16px;

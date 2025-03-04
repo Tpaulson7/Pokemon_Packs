@@ -47,7 +47,7 @@ export function generateRandomPack(cards) {
     return pack;
 }  
   
-// Render cards
+// Render cards in HTML
 export function renderPack(pack) {
     const container = document.getElementById("pack-container");
     container.innerHTML = "";  // Clear previous pack
